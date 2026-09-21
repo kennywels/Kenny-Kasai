@@ -1,37 +1,49 @@
-## Welcome to GitHub Pages
+# Kenny Wels
 
-You can use the [editor on GitHub](https://github.com/kennywels/Kenny-Kasai/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Software Developer & Technology Entrepreneur
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I build practical digital solutions that help organizations solve problems, automate processes, and work more efficiently.
 
-### Markdown
+I'm currently building **Welsion**, a web & technology development studio focused on turning real-world business problems into useful digital products and systems.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### What I work on
 
-```markdown
-Syntax highlighted code block
+- Web applications and business platforms
+- Process automation
+- Dashboards and internal management tools
+- Digital commerce solutions
+- APIs, databases and integrations
+- Product and SaaS experimentation
 
-# Header 1
-## Header 2
-### Header 3
+### Selected work
 
-- Bulleted
-- List
+#### Welsion
+A technology studio focused on practical digital solutions for organizations.
 
-1. Numbered
-2. List
+#### e-Somba
+A digital commerce and delivery platform being developed within the Welsion ecosystem.
 
-**Bold** and _Italic_ and `Code` text
+#### Todo List — Ionic / Angular
+A mobile-oriented task management project built while learning Ionic, Angular and Firebase.
 
-[Link](url) and ![Image](src)
-```
+### Technologies
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**Frontend:** HTML, CSS, JavaScript, Angular, Ionic
 
-### Jekyll Themes
+**Backend & Data:** PHP, SQL, Firebase
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kennywels/Kenny-Kasai/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**Tools:** Git, GitHub, VS Code
 
-### Support or Contact
+### Approach
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+> Understand the problem → design the solution → build → improve.
+
+### Contact
+
+- GitHub: [@kennywels](https://github.com/kennywels)
+- Welsion: coming soon
+- LinkedIn: coming soon
+
+---
+
+© Kenny Wels
