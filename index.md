@@ -2,47 +2,57 @@
 
 ## Software Developer & Technology Entrepreneur
 
-I build practical digital solutions that help organizations solve problems, automate processes, and work more efficiently.
+I build practical digital solutions that help organizations solve problems, improve processes, and work more efficiently.
 
-I'm currently building **Welsion**, a web & technology development studio focused on turning real-world business problems into useful digital products and systems.
+I'm building **Welsion**, a web & technology development studio focused on turning real-world organizational needs into useful digital systems and products.
 
-### What I work on
+---
 
-- Web applications and business platforms
-- Process automation
-- Dashboards and internal management tools
-- Digital commerce solutions
-- APIs, databases and integrations
-- Product and SaaS experimentation
+## What I build
 
-### Selected work
+- 🌐 Web applications and digital platforms
+- ⚙️ Business process automation
+- 📊 Dashboards and management tools
+- 🛒 Digital commerce solutions
+- 🔗 APIs, databases and integrations
+- 💡 Product and SaaS experiments
 
-#### Welsion
-A technology studio focused on practical digital solutions for organizations.
+## Selected work
 
-#### e-Somba
-A digital commerce and delivery platform being developed within the Welsion ecosystem.
+### Welsion
+A technology development studio focused on practical digital solutions for organizations.
 
-#### Todo List — Ionic / Angular
-A mobile-oriented task management project built while learning Ionic, Angular and Firebase.
+### e-Somba
+A digital commerce and delivery platform being developed within the **Welsion ecosystem**.
 
-### Technologies
+### Todo List — Ionic / Angular
+An earlier learning project exploring Ionic, Angular, Firebase and Capacitor.
 
-**Frontend:** HTML, CSS, JavaScript, Angular, Ionic
+---
 
-**Backend & Data:** PHP, SQL, Firebase
+## Technology
 
-**Tools:** Git, GitHub, VS Code
+**Frontend:** HTML · CSS · JavaScript · Angular · Ionic
 
-### Approach
+**Backend & Data:** PHP · SQL · Firebase
 
-> Understand the problem → design the solution → build → improve.
+**Tools:** Git · GitHub · VS Code
 
-### Contact
+---
 
-- GitHub: [@kennywels](https://github.com/kennywels)
-- Welsion: coming soon
-- LinkedIn: coming soon
+## My approach
+
+**Understand the problem → design the solution → build → improve.**
+
+I focus on technology that is useful in the real world—not technology for its own sake.
+
+---
+
+## Explore
+
+- [GitHub Profile](https://github.com/kennywels)
+- **Welsion** — website coming soon
+- **LinkedIn** — profile coming soon
 
 ---
 
